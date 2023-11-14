@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get 'static_pages/big_banner'
   get 'static_pages/small_banner'
   get 'static_pages/authentification_form'
+  get 'static_pages/show_event'
   get 'static_pages/event_card'
   get 'static_pages/users_list'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
