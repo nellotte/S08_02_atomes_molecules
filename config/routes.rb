@@ -1,7 +1,9 @@
 Rails.application.routes.draw do
   get 'static_pages/index'
   get 'static_pages/navbar'
-  get 'static_pages/footer'
+  get 'static_pages/footer2' 
+  get 'static_pages/big_banner'
+  get 'static_pages/small_banner'
   get 'static_pages/authentification_form'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
